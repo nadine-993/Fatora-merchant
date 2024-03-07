@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21128283873",
+    "project_id": "fatoramer",
+    "storage_bucket": "fatoramer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21128283873:android:16e0295f9ba6ece644d9a0",
+        "android_client_info": {
+          "package_name": "com.fatora.fatora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_3r5Xy1bU7IP6JmpkK_2GFFwPIb2d3Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
